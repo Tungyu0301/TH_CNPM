@@ -7,7 +7,6 @@ namespace Project01_Nhom2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello My Name Is Nguyen Quoc Tien!");
-            Console.WriteLine("Hello My Name Is Tran Manh Tung");
         }
     }
 }
